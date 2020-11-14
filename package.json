@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@codewarriorr/electrum-client-js": "^0.1.1"
+  }
 }

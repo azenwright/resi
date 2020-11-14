@@ -2,9 +2,9 @@ const ElectrumClient = require('@codewarriorr/electrum-client-js')
 
 async function main() {
     const client = new ElectrumClient(
-        'fortress.qtornado.com',
-        50002,
-        'ssl'
+        'b6.1209k.com', //'fortress.qtornado.com',
+        50001,
+        'tcp'
     )
 
     try {
